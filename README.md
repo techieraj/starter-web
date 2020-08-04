@@ -13,3 +13,6 @@ Sample website with plenty of files for demos. Hi there
 
 ## Deployment
 Deploy
+
+### Copyright
+Git Training 
