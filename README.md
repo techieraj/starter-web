@@ -10,6 +10,7 @@ This is intro
 Sample website with plenty of files for demos. Hi there
 
 ## How to Contribute
+Please fork project
 
 ## Deployment
 Deploy
